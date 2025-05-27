@@ -1,0 +1,94 @@
+/* Mudando a cor de fundo do html */
+
+.body {
+
+    margin: 30px;
+    background-color: paleturquoise;
+}
+
+/* Mudando o título */
+
+.titulopagina {
+
+    font-size: 50px;
+    color: mediumblue;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+/* Mudando o menu */
+
+a:link {
+
+    color: midnightblue;
+    text-decoration: none;
+    font-size: 20px;
+
+}
+
+a:visited {
+
+    color: turquoise;
+
+}
+
+a:hover {
+
+    color:mediumorchid;
+
+}
+
+a:active {
+
+    color: rgb(6, 238, 149);
+
+}
+
+.imagem-centralizada {
+
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+
+}
+
+.banner {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    height: auto;
+
+}
+
+/* Tabela */
+
+.tabela {
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 3px solid mediumblue;
+    margin: auto;
+    text-align: center;
+    width: 80%;
+    table-layout: fixed;
+
+
+}
+
+.titulo-tabela {
+
+    padding: 20px;
+    background-color: rgb(104, 248, 241);
+    text-align: center;
+
+}
+
+.imagem_city {
+
+    width: 300px;
+    border-radius: 5%;
+    
+
+}
